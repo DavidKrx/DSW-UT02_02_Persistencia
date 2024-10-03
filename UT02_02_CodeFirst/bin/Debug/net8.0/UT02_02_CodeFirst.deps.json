@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UT02_02_CodeFirst/1.0.0": {
+        "runtime": {
+          "UT02_02_CodeFirst.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UT02_02_CodeFirst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
