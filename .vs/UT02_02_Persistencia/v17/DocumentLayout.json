@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_codefirst\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|solutionrelative:ut02_02_codefirst\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "UT02_02_CodeFirst\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Models\\Car.cs",
+              "RelativeToolTip": "UT02_02_CodeFirst\\Models\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:33:00.178Z",
+              "EditorCaption": ""
             }
           ]
         }
