@@ -57,7 +57,7 @@ namespace UT02_02_CodeFirst.Migrations
                             Brand = "Seat",
                             Model = "Panda",
                             Price = 15000m,
-                            ReleaseDate = new DateTime(2024, 10, 4, 9, 47, 34, 996, DateTimeKind.Local).AddTicks(3978)
+                            ReleaseDate = new DateTime(2024, 10, 7, 13, 5, 31, 525, DateTimeKind.Local).AddTicks(707)
                         },
                         new
                         {
@@ -65,7 +65,7 @@ namespace UT02_02_CodeFirst.Migrations
                             Brand = "Seat",
                             Model = "Ibiza",
                             Price = 16000m,
-                            ReleaseDate = new DateTime(2024, 10, 4, 9, 47, 34, 996, DateTimeKind.Local).AddTicks(4025)
+                            ReleaseDate = new DateTime(2024, 10, 7, 13, 5, 31, 525, DateTimeKind.Local).AddTicks(753)
                         },
                         new
                         {
@@ -73,7 +73,7 @@ namespace UT02_02_CodeFirst.Migrations
                             Brand = "Audi",
                             Model = "Franchesco",
                             Price = 20000m,
-                            ReleaseDate = new DateTime(2024, 10, 4, 9, 47, 34, 996, DateTimeKind.Local).AddTicks(4028)
+                            ReleaseDate = new DateTime(2024, 10, 7, 13, 5, 31, 525, DateTimeKind.Local).AddTicks(756)
                         });
                 });
 #pragma warning restore 612, 618

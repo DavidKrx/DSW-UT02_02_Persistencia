@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_databasefirst\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|solutionrelative:ut02_02_databasefirst\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_codefirst\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|solutionrelative:ut02_02_codefirst\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|solutionrelative:ut02_02_databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_codefirst\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|solutionrelative:ut02_02_codefirst\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0938F004-10B9-4E6D-9FE0-0ACAFAD2EE9B}|UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj|solutionrelative:ut02_02_databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|c:\\users\\2dawa\\documents\\2daw a\\dsw\\proyectos\\aut02\\ut02_02_persistencia\\ut02_02_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}|UT02_02_CodeFirst\\UT02_02_CodeFirst.csproj|solutionrelative:ut02_02_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241004084735_Seeder3car.cs",
-              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs",
-              "RelativeDocumentMoniker": "UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs",
-              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs",
-              "RelativeToolTip": "UT02_02_CodeFirst\\Migrations\\20241004084735_Seeder3car.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\Data\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "UT02_02_DataBaseFirst\\Data\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\Data\\NorthwindContext.cs",
+              "RelativeToolTip": "UT02_02_DataBaseFirst\\Data\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:47:35.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Data\\Context.cs",
-              "RelativeDocumentMoniker": "UT02_02_CodeFirst\\Data\\Context.cs",
-              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Data\\Context.cs",
-              "RelativeToolTip": "UT02_02_CodeFirst\\Data\\Context.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAowCQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:32:57.071Z",
+              "WhenOpened": "2024-10-07T12:55:47.987Z",
               "EditorCaption": ""
             },
             {
@@ -56,15 +47,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "UT02_02_CodeFirst\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\Models\\Car.cs",
-              "RelativeToolTip": "UT02_02_CodeFirst\\Models\\Car.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAjAAAA",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UT02_02_DataBaseFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UT02_02_DataBaseFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:15:43.016Z",
+              "WhenOpened": "2024-10-07T12:58:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "UT02_02_DataBaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\appsettings.json",
+              "RelativeToolTip": "UT02_02_DataBaseFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:54:40.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "UT02_02_CodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "UT02_02_CodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:54:32.631Z",
               "EditorCaption": ""
             }
           ]

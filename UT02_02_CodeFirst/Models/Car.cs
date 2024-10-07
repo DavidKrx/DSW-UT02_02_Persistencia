@@ -24,7 +24,6 @@ namespace UT02_02_CodeFirst.Models
         //Fecha <1/1/2024
         [DisplayName("Fecha")]
         [Required(ErrorMessage = "El campo es obligatorio.")]
-        [Range(typeof(DateTime), "1/1/1970", "1/1/2024", ErrorMessage = "El valor tiene que estar entre 1/1/1970 y 1/1/2024")]
         public DateTime ReleaseDate { get; set; }
 
 
