@@ -18,7 +18,6 @@ public partial class NorthwindContext : DbContext
 
     public virtual DbSet<Supplier> Suppliers { get; set; }
 
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Supplier>(entity =>

@@ -1,9 +1,11 @@
+using Microsoft.EntityFrameworkCore;
 using UT02_02_DataBaseFirst.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDbContext<NorthwindContext>();
 
 // Add services to the container.
+builder.Services.AddDbContext<NorthwindContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("NorthwindContext") ?? throw new InvalidOperationException("Connection string 'Context' not found.")));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -25,6 +27,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Suppliers}/{action=Index}/{id?}");
 
 app.Run();
