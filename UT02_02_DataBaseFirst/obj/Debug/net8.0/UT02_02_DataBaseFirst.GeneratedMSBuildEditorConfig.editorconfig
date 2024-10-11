@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UT02_02_DataBaseFirst
 build_property.RootNamespace = UT02_02_DataBaseFirst
-build_property.ProjectDir = C:\Users\david\Documents\WorkspaceDSW\UT02_02_Persistencia\UT02_02_DataBaseFirst\
+build_property.ProjectDir = C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_DataBaseFirst\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\david\Documents\WorkspaceDSW\UT02_02_Persistencia\UT02_02_DataBaseFirst
+build_property.MSBuildProjectDirectory = C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_DataBaseFirst
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Home/Index.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Home/Privacy.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/Error.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Create.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Delete.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Details.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Edit.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Index.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Suppliers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/_ViewImports.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/_ViewStart.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/david/Documents/WorkspaceDSW/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/_Layout.cshtml]
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_DataBaseFirst/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i68zt2f3xu

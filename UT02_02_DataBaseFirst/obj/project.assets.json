@@ -7717,19 +7717,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {}
+    "C:\\Users\\2dawa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Documents\\WorkspaceDSW\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj",
+      "projectUniqueName": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj",
       "projectName": "UT02_02_DataBaseFirst",
-      "projectPath": "C:\\Users\\david\\Documents\\WorkspaceDSW\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\Documents\\WorkspaceDSW\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\obj\\",
+      "projectPath": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\UT02_02_DataBaseFirst.csproj",
+      "packagesPath": "C:\\Users\\2dawa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2dawa\\Documents\\2DAW A\\DSW\\Proyectos\\AUT02\\UT02_02_Persistencia\\UT02_02_DataBaseFirst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\2dawa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7795,7 +7795,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

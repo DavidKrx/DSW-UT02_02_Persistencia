@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UT02_02_Hibrido
+build_property.RootNamespace = UT02_02_Hibrido
+build_property.ProjectDir = C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_Hibrido\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_Hibrido
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shippers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shippers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shippers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shippers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shippers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2dawa/Documents/2DAW A/DSW/Proyectos/AUT02/UT02_02_Persistencia/UT02_02_Hibrido/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m3hb0bz3aq

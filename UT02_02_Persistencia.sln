@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UT02_02_CodeFirst", "UT02_02_CodeFirst\UT02_02_CodeFirst.csproj", "{FA692E42-2530-4B47-AAD9-2F2401EB6A1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT02_02_DataBaseFirst", "UT02_02_DataBaseFirst\UT02_02_DataBaseFirst.csproj", "{86A9E7BF-32DC-4800-82CE-FFAB75C10712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UT02_02_DataBaseFirst", "UT02_02_DataBaseFirst\UT02_02_DataBaseFirst.csproj", "{86A9E7BF-32DC-4800-82CE-FFAB75C10712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT02_02_Hibrido", "UT02_02_Hibrido\UT02_02_Hibrido.csproj", "{81691ACD-BF40-46DF-AE60-47BB0D67601A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{86A9E7BF-32DC-4800-82CE-FFAB75C10712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86A9E7BF-32DC-4800-82CE-FFAB75C10712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86A9E7BF-32DC-4800-82CE-FFAB75C10712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81691ACD-BF40-46DF-AE60-47BB0D67601A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81691ACD-BF40-46DF-AE60-47BB0D67601A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81691ACD-BF40-46DF-AE60-47BB0D67601A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81691ACD-BF40-46DF-AE60-47BB0D67601A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

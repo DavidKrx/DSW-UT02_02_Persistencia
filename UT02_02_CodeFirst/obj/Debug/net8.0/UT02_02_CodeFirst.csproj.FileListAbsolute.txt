@@ -250,7 +250,6 @@ C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02
 C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_CodeFirst\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_CodeFirst\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_CodeFirst\obj\Debug\net8.0\UT02_02_CodeFirst.csproj.AssemblyReference.cache
-C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_CodeFirst\obj\Debug\net8.0\UT02_02_CodeFirst.sourcelink.json
 C:\Users\2dawa\Documents\2DAW A\DSW\Proyectos\AUT02\UT02_02_Persistencia\UT02_02_CodeFirst\obj\Debug\net8.0\UT02_02_.D304E66F.Up2Date
 C:\Users\david\Documents\WorkspaceDSW\UT02_02_Persistencia\UT02_02_CodeFirst\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\david\Documents\WorkspaceDSW\UT02_02_Persistencia\UT02_02_CodeFirst\bin\Debug\net8.0\appsettings.json
